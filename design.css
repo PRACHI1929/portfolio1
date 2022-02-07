@@ -323,6 +323,7 @@ h5{
     justify-content: center;
     align-items: center;
     min-height: 400px;
+    text-decoration: none;
 
 }
 .projblock{
@@ -342,6 +343,7 @@ h5{
     text-align: center;
     margin: 5px 0px;
     color: rgba(0, 0, 0);
+    text-decoration: none;
 }
 .projblock h4{
     color: seashell;
